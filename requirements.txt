@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+re
+nltk
+seaborn
+string
+scikit-learn
+xgboost
+torch
